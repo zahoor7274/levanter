@@ -13,7 +13,7 @@
     "ANTISPAM_MSG": "_Antispam Detected &mention kicked_",
     "ANTIWORDS_MSG": "_AntiWord Detected &mention kicked_",
     "ANTIWORDS": "word",
-    "REJECT_CALL": "false",
+    "REJECT_CALL": "true",
     "AUTO_STATUS_VIEW": "true",
     "SEND_READ": "true",
     "AJOIN": "false",
